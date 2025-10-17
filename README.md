@@ -1,7 +1,7 @@
 # 🌡️ Temperaturregulator med PID-kontroll
 **Fagskoleprosjekt – Høst 2025**
 
-Et semesterprosjekt ved [Fagskolen i Viken] for å utvikle et komplett system for **temperaturregulering basert på PID-kontroll**.  
+Et semesterprosjekt ved [Fagskolen i Rogaland] for å utvikle et komplett system for **temperaturregulering basert på PID-kontroll**.  
 Systemet består av et egendesignet PCB med innebygd varmesløyfe, temperatursensor og mikrokontroller (ESP32 med MicroPython).  
 Prosjektet demonstrerer hvordan PID-regulering kan stabilisere temperatur i et tregt system med ytre forstyrrelser, som f.eks. vifte eller varmelekkasje.
 
